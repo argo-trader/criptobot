@@ -1,0 +1,5 @@
+
+###> cripto/mongo-config ###
+mongo-volume/
+init-mongo.js
+###< cripto/mongo-config ###
