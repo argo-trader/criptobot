@@ -2,6 +2,4 @@
 ###> cripto/infra-folder ###
 .env
 .idea/
-docker/mongo/mongo-volume/
-docker/mongo/init-mongo.js
 ###< cripto/infra-folder ###
